@@ -1,5 +1,4 @@
-# Code Refactor Starter Code
-
+# Website Enhanced with Search Engine Optimization 
 - Enhanced search engine optimization by adjusting title
 - Added notes to delineate different parts of the website
 - Inserted id=SEO 
@@ -13,5 +12,5 @@
 
 
 
-# Screenshots
+# Screenshot
 ![Homepage 1](./Develop/assets/images/Screenshot%202022-05-20%20at%2014.56.28.png) 
