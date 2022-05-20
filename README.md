@@ -15,4 +15,3 @@
 
 # Screenshots
 ![Homepage 1](./Develop/assets/images/Screenshot%202022-05-20%20at%2014.56.28.png) 
-![Homepage 2](./Develop/assets/images/Screenshot%202022-05-20%20at%2014.56.45.png) 
