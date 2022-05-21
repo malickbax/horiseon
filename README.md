@@ -13,7 +13,7 @@
 - I tried to consolidate the SEO, Online Reputation Management and Social Media Marketing sections, but I was not successful. Left as is.
 
 # Link to deployed web application 
-
+- https://malickbax.github.io/horiseonSEO/
 
 
 # Screenshot
