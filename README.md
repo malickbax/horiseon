@@ -1,7 +1,8 @@
 # Description 
-- SEO operation for Horiseon web application. Code and related documentation submitted as part of assignment for coding bootcamp.
+- SEO operation for Horiseon web application. 
 
 # Website Enhanced with Search Engine Optimization 
+SEO operation achieved with the following improvements on the code:
 - Enhanced search engine optimization by adjusting title
 - Added notes to delineate different parts of the website
 - Inserted id=SEO 
