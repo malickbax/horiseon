@@ -15,6 +15,13 @@ SEO operation achieved with the following improvements on the code:
 # Link to deployed web application 
 - https://malickbax.github.io/horiseonSEO/
 
-
 # Screenshot
 ![Homepage 1](/assets/images/Screenshot%202022-05-20%20at%2014.56.28.png) 
+
+## Tests
+- No test is required. Application is deployed and ready for usage.
+
+## Questions
+**Malick Ba**
+
+For more projects, please visit my [GitHub page](https://github.com/malickbax) 
