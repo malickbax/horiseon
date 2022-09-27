@@ -1,5 +1,5 @@
 # Description 
-- This is a Search Engine Optimization (SEO) operation for Horiseon web application. The operation consisted of improving the code to ensure the product website is better reflected in search results from search engines such as Google or Bing.   
+- This is a Search Engine Optimization (SEO) operation for Horiseon web application. The operation consisted of improving the code to ensure the product website is better reflected in search results from search engines such as Google Search or Microsoft Bing.   
 
 # Website Enhanced with Search Engine Optimization 
 SEO operation achieved with the following improvements on the code:
