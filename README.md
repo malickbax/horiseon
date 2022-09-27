@@ -2,7 +2,7 @@
 - This is a Search Engine Optimization (SEO) operation for Horiseon web application. The operation consisted of improving the code to ensure the product website is better reflected in search results from search engines such as Google Search or Microsoft Bing.   
 
 ## User Story
-As a Marketing Agent, I want a codebase that follows accessibility standards so our company site is optimized for search engines. 
+As a Marketing Agent, I want a codebase that follows accessibility standards so that our company site is optimized for search engines. 
 Given a webpage meets accessibility standards...
 - When I view the source code, I find semantic HTML elements. 
 - When I view the structure of the HTML elements, I find that the elements follow a logical structure independent of styling and positioning.
