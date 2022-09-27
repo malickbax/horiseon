@@ -1,7 +1,17 @@
 # Description 
 - This is a Search Engine Optimization (SEO) operation for Horiseon web application. The operation consisted of improving the code to ensure the product website is better reflected in search results from search engines such as Google Search or Microsoft Bing.   
 
-# Website Enhanced with Search Engine Optimization 
+## User Story
+As a Marketing Agent, I want a codebase that follows accessibility standards so our company site is optimized for search engines. 
+Given a webpage meets accessibility standards...
+- When I view the source code, I find semantic HTML elements. 
+- When I view the structure of the HTML elements, I find that the elements follow a logical structure independent of styling and positioning.
+- When I view the image elements, I find accessible alt attributes.
+- When I view the heading attributes, they fall in sequential order.
+- When I view the title element, I find a concise, descriptive title.
+
+
+## Website Enhanced with Search Engine Optimization 
 SEO operation achieved with the following improvements on the code:
 - Enhanced search engine optimization by adjusting title
 - Added notes to delineate different parts of the website
@@ -12,10 +22,10 @@ SEO operation achieved with the following improvements on the code:
 - Footer adjusted as section instead of class
 - Consolidated "benefits" for more concise style.css sheet
 
-# Link to deployed web application 
+## Link to deployed web application 
 - https://malickbax.github.io/horiseonSEO/
 
-# Screenshot
+## Screenshot
 ![Homepage 1](/assets/images/Screenshot%202022-05-20%20at%2014.56.28.png) 
 
 ## Tests
